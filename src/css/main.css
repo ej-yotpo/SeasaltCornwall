@@ -6,7 +6,7 @@
   --top-wrapper-space: 0;
   --primary-template-background: #04194c;
   --light-template-background: #fff;
-  --accordion-background-active: #2f84ed;
+  --accordion-background-active: red;
 }
 
 * {
