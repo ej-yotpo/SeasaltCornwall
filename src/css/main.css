@@ -6,9 +6,9 @@
   --top-wrapper-space: 0;
   --primary-template-background: #04194c;
   --light-template-background: #fff;
-  --accordion-background-active: red;
+  --accordion-background-active: #0D6EFD;
 }
-.accordion-item{background:red!important;}
+.accordion-collapse.collapse.show{background:#EAEAEA!important;}
 * {
   box-sizing: border-box;
   -moz-box-sizing: border-box;
